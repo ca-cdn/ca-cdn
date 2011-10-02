@@ -1,0 +1,11 @@
+.nukeNAV a{border:1px solid #600;font-size: 11px;}
+.nukeNAV a,.nukeNAV a:visited{color:#000;}
+.nukeNAV li:hover,.nukeNAV li.sfHover,.nukeNAV a:focus,.nukeNAV a:hover,.nukeNAV a:active{background:#600;color:#fff;outline:0;}
+.nukeNAV li,.nukeNAV li li,.nukeNAV li li li{background:#fff;}
+.sf-sub-indicator{background:url(../../../includes/jquery/css/images/arrows-000000.png) no-repeat -10px -100px;}
+.nukeNAVmod,.nukeNAVmod li{width:13em;}
+.nukeNAVmod a,.nukeNAVmod a:visited{color:#000;}
+.nukeNAVmod li:hover,.nukeNAVmod li.sfHover,.nukeNAVmod a:focus,.nukeNAVmod a:hover,.nukeNAVmod a:active{color:#000;background:#f4f6fb;outline:0;}
+.nukeNAVmod li:hover ul,.nukeNAVmod li.sfHover ul{z-index:99;left:13em;top:0;}
+.nukeNAVmod li,.nukeNAVmod li li,.nukeNAVmod li li li{background:#fff;}
+.nukeNAVmod li li,.nukeNAVmod li li li{padding:2;margin:0;}

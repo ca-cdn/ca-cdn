@@ -1,0 +1,32 @@
+font {font-family:Verdana,Helvetica}
+td {font-family:Verdana,Helvetica; font-size:11px}
+body {font-family:Verdana,Helvetica; font-size:11px}
+p {font-family:Verdana,Helvetica; font-size:11px}
+div {font-family:Verdana,Helvetica; font-size:11px}
+input {font-family:Verdana,Helvetica; font-size:11px}
+textarea {font-family:Verdana,Helvetica; font-size:11px}
+form {font-family: Verdana,Helvetica; font-size: 11px}
+a:link {background: none; color: #000000; font-size: 11px; font-family: Verdana, Helvetica; text-decoration: underline}
+a:active {background: none; color: #000000; font-size: 11px; font-family: Verdana, Helvetica; text-decoration: underline}
+a:visited {background: none; color: #000000; font-size: 11px; font-family: Verdana, Helvetica; text-decoration: underline}
+a:hover {background: none; color: #000000; font-size: 11px; font-family: Verdana, Helvetica; text-decoration: underline}
+.title {background: none; color: #000000; font-size: 13px; font-weight: bold; font-family: Verdana, Helvetica; text-decoration: none}
+.content {background: none; color: #000000; font-size: 11px; font-family: Verdana, Helvetica}
+.storytitle {background:none; color:#ffffff; font-size:14px; font-weight:bold; font-family:Verdana, Helvetica; text-decoration:none}
+.storycat {background: none; color: #ffffff; font-size: 13px; font-weight: bold; font-family: Verdana, Helvetica; text-decoration: underline}
+.boxtitle {background: none; color: #363636; font-size: 11px; font-weight: bold; font-family: Verdana, Helvetica; text-decoration: none}
+.boxcontent {background:none; color:#000000; font-size: 12px; font-family: Verdana, Helvetica}
+.option {background: none; color: #000000; font-size: 13px; font-weight: bold; font-family: Verdana, Helvetica; text-decoration: none}
+.tiny {background: none; color: #000000; font-size: 10px; font-weight: normal; font-family: Verdana, Helvetica; text-decoration: none}
+.footmsg {background: none; color: #000000; font-size: 8px; font-weight: normal; font-family: Verdana, Helvetica; text-decoration: none}
+.footmsg_l {background: none; color: #000000; font-size: 8px; font-weight: normal; font-family: Verdana, Helvetica; text-decoration: underline}
+.box {font-family: Verdana,Helvetica; font-size: 11px; border: 1px solid #000000; background-color: #ffffff}
+.newstdgl {background-color:#e6e6e6; background-image:url(../images/gl.gif)}
+.newstdgr {background-color:#e6e6e6; background-image:url(../images/gr.gif)} 
+.newstdwl {background-color:#ffffff; background-image:url(../images/wl.gif)}
+.newstdwr {background-color:#ffffff; background-image:url(../images/wr.gif)}
+.newstdwl_cccccc {background-color:#cccccc; background-image:url(../images/wl_cccccc.gif)}
+.newstdwr_cccccc {background-color:#cccccc; background-image:url(../images/wr_cccccc.gif)}
+.newstdsl {background-color:#ffffff; background-image:url(../images/sl.gif)}
+.newstdsr {text-align:right; background-color:#ffffff; background-image:url(../images/sr.gif)}
+img {border-style: none}
