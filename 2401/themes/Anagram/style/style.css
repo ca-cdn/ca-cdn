@@ -1,0 +1,22 @@
+font {font-family: tahoma, verdana, helvetica, geneva, arial}
+td {font-family: tahoma, verdana, helvetica, geneva, arial; font-size: 11px}
+body {font-family: tahoma, verdana, helvetica, geneva, arial; font-size: 11px}
+p {font-family: tahoma, verdana, helvetica, geneva, arial; font-size: 11px}
+div {font-family: tahoma, verdana, helvetica, geneva, arial; font-size: 11px}
+input {font-family: tahoma, verdana, helvetica, geneva, arial; font-size: 11px}
+textarea {font-family: tahoma, verdana, helvetica, geneva, arial; font-size: 11px}
+form {font-family: tahoma, verdana, helvetica, geneva, arial; font-size: 11px}
+select {font-family: tahoma, verdana, helvetica, geneva, arial; font-size: 11px}
+a:link {background: none; color: #000000; font-size: 11px; font-family: verdana, helvetica; text-decoration: underline}
+a:active {background: none; color: #000000; font-size: 11px; font-family: verdana, helvetica; text-decoration: underline}
+a:visited {background: none; color: #000000; font-size: 11px; font-family: verdana, helvetica; text-decoration: underline}
+a:hover {background: none; color: #000000; font-size: 11px; font-family: verdana, helvetica; text-decoration: underline}
+.title {background: none; color: #000000; font-size: 11px; font-weight: bold; font-family: verdana, helvetica; text-decoration: none}
+.content {background: none; color: #000000; font-size: 11px; font-family: verdana, helvetica}
+.storytitle {background: none; color: #363636; font-size: 11px; font-weight: bold; font-family: verdana, helvetica; text-decoration: none}
+.storycat {background: none; color: #000000; font-size: 11px; font-weight: bold; font-family: verdana, helvetica; text-decoration: underline}
+.boxtitle {background: none; color: #363636; font-size: 11px; font-weight: bold; font-family: verdana, helvetica; text-decoration: none}
+.boxcontent {background: none; color: #000000; font-size: 11px; font-family: verdana, helvetica}
+.option {background: none; color: #000000; font-size: 11px; font-weight: bold; font-family: verdana, helvetica; text-decoration: none}
+.tiny {background: none; color: #000000; font-size: 10px; font-weight: normal; font-family: verdana, helvetica; text-decoration: none}
+img {border-style: none }
